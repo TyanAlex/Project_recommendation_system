@@ -1,0 +1,44 @@
+.searchMain {
+    display: flex;
+}
+
+.searchMain .checkboxes {
+    width: 40%;
+    height: 100vh;
+    background-color: rgb(47, 53, 79);
+}
+
+.project-container {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(29, 20, 33);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+.project-list {
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.project-name {
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    color:rgb(117, 87, 172)
+}
+
+.project-description {
+    font-size: 1rem;
+}
+
+.project-box {
+    color: rgb(159, 159, 159);
+}
+
+.resultsMsg {
+    text-align:end;
+    color: #3d3d3d;
+    margin-right: 20px;
+}

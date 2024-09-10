@@ -1,0 +1,16 @@
+login:
+    sign up form
+    login functionality
+
+index.php:
+    make responsive
+    add animations
+    footer
+    import login forms
+
+navigation:
+    fix navigation
+
+
+
+me.DO(footer and navigation);

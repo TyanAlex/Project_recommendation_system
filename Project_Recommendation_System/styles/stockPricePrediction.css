@@ -1,0 +1,17 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
+body {
+    width: 90%;
+    height: 100vh;
+    background-color: rgb(90, 138, 205);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding: 20px 40px;
+
+}
